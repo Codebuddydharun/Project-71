@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 a
+{
+    text-shadow: none;
+}
+.book{
+    cursor: pointer;
+}
+.modal-body{
+    text-align: center;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+#arnab{
+    height: 300px;
+    width: 300px;
+}
